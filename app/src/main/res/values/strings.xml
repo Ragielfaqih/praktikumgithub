@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">praktikumgithub</string>
+    <string-array name="gender">
+        <item>laki-laki</item>
+        <item>perempuan</item>
+    </string-array>
+
+    <string-array name="data_negara">
+        <item>indonesia</item>
+        <item>portugal</item>
+        <item>brazil</item>
+        <item>wales</item>
+        <item>argentina</item>
+        <item>jepang</item>
+        <item>turkmenistan</item>
+        <item>malaysia</item>
+        <item>turkey</item>
+        <item>korea</item>
+        <item>brunei darussalam</item>
+        <item>kanada</item>
+        <item>singapura</item>
+        <item>filipina</item>
+    </string-array>
 </resources>
